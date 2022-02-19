@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I am a JavaScript web developer from the UK, currently living in Australia.
+I am a JavaScript web developer from the UK.
 
 - 🔭 I’m working on a scalable and shardable database system called [canhazdb](https://canhazdb.com).
 - 🌱 I’m learning about simple, automated deployments using Docker Swarm as an alternative to Kubernetes via [puzed](https://github.com/puzed).
