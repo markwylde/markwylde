@@ -2,7 +2,7 @@
 
 I am a web developer in London that enjoys building with:
 
-`TypeScript`, `JavaScript`, `NodeJS`, `Deno`, `Mongo`, `PostGres`, `REST API's`, `OpenAPI`
+`TypeScript`, `JavaScript`, `NodeJS`, `Deno`, `Mongo`, `Postgres`, `REST API's`, `OpenAPI`
 
 - 🤖 I’m working on generating research papers using self hosted AI/LLM models, specifically:
 - 💻 I advocate for client only, true serverless web apps
