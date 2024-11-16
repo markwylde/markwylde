@@ -1,12 +1,12 @@
 ### Hello 👋
 
-I am a JavaScript web developer in London.
+I am a web developer in London that enjoys building with:
 
-- 🤖 I’m working on AI/LLM tooling, specifically:
-  - market research tool [researcho.com](https://researcho.com)
-  - locally running LLM via chrome [ollama-chrome-api](https://github.com/markwylde/ollama-chrome-api)
-- 💻 I advocate for client only, no server web apps
-- 📦 I’m learning passionate about automated deployments using containers.
+`TypeScript`, `JavaScript`, `NodeJS`, `Deno`, `Mongo`, `PostGres`, `REST API's`, `OpenAPI`
+
+- 🤖 I’m working on generating research papers using self hosted AI/LLM models, specifically:
+- 💻 I advocate for client only, true serverless web apps
+- 📦 I’m passionate about automated deployments using containers.
 - 👯 I’m looking to collaborate on any projects that are lightweight, fast, and responsive.
-- 💬 Ask me about databases, user experience, freedom, open source, security and privacy.
-- 📫 You can reach me at me@markwylde.com
+- 💬 Ask me about databases, eventing, user experience, open source, security and privacy.
+- 📫 You can reach me at mark@wylde.net
